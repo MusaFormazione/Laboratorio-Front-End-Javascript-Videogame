@@ -2,7 +2,7 @@
 Materiale del webinar live dedicato alla creazione di un videogame arcade con JavaScript
 
 ## Riassunto degli steps necessari per creare la logica di gioco
-- Creare un <canvas>
+- Creare un canvas
 - Individuare gli elementi del gioco (Pallina, racchetta del giocatore, mattoncini)
 - Disegnare gli elementi sul canvas
 - Creare un loop di animazione
